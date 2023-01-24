@@ -1,3 +1,3 @@
 | Oink Code | Scratch Block |
 | --------- | ------------- |
-|           |![alt text](https://fwtbbmf399.execute-api.us-east-1.amazonaws.com/Prod/svg?source=https://raw.githubusercontent.com/vitalibo/markdown-inline-svg/master/readme.md&name=sample.svg)|
+|           |![alt text](https://cdn.discordapp.com/attachments/701441015017504789/1067471611709628416/block_2023-01-24-11_50_55_a.m..svg)|
