@@ -6,6 +6,8 @@
 | TN(<)15 |![alt text](https://github.com/KyleKart/Oink/blob/main/turn2.png?raw=true)|
 | VAR(A)20 |![alt text](https://github.com/KyleKart/Oink/blob/main/var.png?raw=true)|
 | @A |![alt text](https://github.com/KyleKart/Oink/blob/main/A.png?raw=true)|
+| SAY()Hello_World! |![alt text](https://github.com/KyleKart/Oink/blob/main/say.png?raw=true)|
+| IMG()2 |![alt text](https://github.com/KyleKart/Oink/blob/main/costume.png?raw=true)|
 
 Oink Code is split into 3 segments:
 - Command [before the ()]
