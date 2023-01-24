@@ -6,3 +6,8 @@
 | TN(<)15 |![alt text](https://github.com/KyleKart/Oink/blob/main/turn2.png?raw=true)|
 | VAR(A)20 |![alt text](https://github.com/KyleKart/Oink/blob/main/var.png?raw=true)|
 | @A |![alt text](https://github.com/KyleKart/Oink/blob/main/A.png?raw=true)|
+
+Oink Code is split into 3 segments:
+- Command [before the ()]
+- Modifier [inside the ()]
+- Input [after the ()]
