@@ -1,2 +1,2 @@
-| Plugin | README |
+| Oink Code | Scratch Block |
 | ------ | ------ |
