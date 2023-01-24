@@ -11,3 +11,4 @@ Oink Code is split into 3 segments:
 - Command [before the ()]
 - Modifier [inside the ()]
 - Input [after the ()]
+Not every command has a modifier and some use just ().
