@@ -5,3 +5,4 @@
 | TN(>)15 |![alt text](https://github.com/KyleKart/Oink/blob/main/turn1.png?raw=true)|
 | TN(<)15 |![alt text](https://github.com/KyleKart/Oink/blob/main/turn2.png?raw=true)|
 | VAR(A)20 |![alt text](https://github.com/KyleKart/Oink/blob/main/var.png?raw=true)|
+| @A |![alt text](https://github.com/KyleKart/Oink/blob/main/A.png?raw=true)|
