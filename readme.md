@@ -8,6 +8,9 @@
 | @A |![alt text](https://github.com/KyleKart/Oink/blob/main/A.png?raw=true)|
 | SAY()Hello_World! |![alt text](https://github.com/KyleKart/Oink/blob/main/say.png?raw=true)|
 | IMG()2 |![alt text](https://github.com/KyleKart/Oink/blob/main/costume.png?raw=true)|
+| ***AUD()URL*** |![alt text](https://github.com/KyleKart/Oink/blob/main/sound.png?raw=true)|
+
+Some Oink Code in the above table may look like ***this***. That means that it uses a custom Scratch extension that won't work in normal Scratch!
 
 Oink Code is split into 3 segments:
 - Command [before the ()]
